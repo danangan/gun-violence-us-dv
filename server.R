@@ -20,6 +20,7 @@ library(plotly)
 library(usmap)
 library(maps)
 library(mapdata)
+library(reshape2)
 
 Sys.setenv('MAPBOX_TOKEN' = 'pk.eyJ1IjoiZGFuYW5nYW4iLCJhIjoiY2puanQxMDd2MGJoNTNqbm9wd2duYzRqaSJ9.L1_K0YXQO27s5JpgDk26Eg')
 
