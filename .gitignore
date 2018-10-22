@@ -1,0 +1,6 @@
+.RData
+.Rhistory
+.DS_STORE
+rsconnect/
+
+gun-violence-data.csv
